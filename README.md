@@ -14,7 +14,7 @@ Sample MATLAB data to be written to Excel file: https://github.com/hasanalpdoydu
 </br>
 </br>
 
-<img src="https://github.com/hasanalpdoyduk/ecar_realistic_data_generation/blob/main/ecar_photo.png" width="1000" height="660" align="center" >
+<img src="https://github.com/hasanalpdoyduk/ecar_realistic_data_generation/blob/main/Documentation/ecar_photo.png" width="1000" height="660" align="center" >
 
 # Usage
 
