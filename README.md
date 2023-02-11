@@ -20,5 +20,5 @@ Sample MATLAB data to be written to Excel file: https://github.com/hasanalpdoydu
 
 When the button related to the electric vehicle charging station, whose current type and energy level is selected, is pressed, realistic data is generated and graphics are formed.
 
-<img src="https://github.com/hasanalpdoyduk/ecar_realistic_data_generation/blob/main/ecar_photo2.png" width="1000" height="660" align="center" >
+<img src="https://github.com/hasanalpdoyduk/ecar_realistic_data_generation/blob/main/Documentation/ecar_photo2.png" width="1000" height="660" align="center" >
 
