@@ -10,7 +10,7 @@ According to the research, there are two types of DC and two types of AC current
 The data generated about the charging station, whose current type and amount of energy to be supplied are selected, automatically creates an excel file. This excel file is downloaded to the area where the code file is located on the device.
 </br>
 </br>
-Sample MATLAB data to be written to Excel file: https://github.com/hasanalpdoyduk/ecar_realistic_data_generation/blob/main/ecar_realistic_data_generation/ecar_data_outputs.m
+Sample MATLAB data to be written to Excel file: [ecar_realistic_data_generation](https://github.com/hasanalpdoyduk/ecar_realistic_data_generation/blob/main/ecar_realistic_data_generation/ecar_data_outputs.m)
 </br>
 </br>
 
